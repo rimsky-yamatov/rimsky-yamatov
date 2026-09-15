@@ -1,4 +1,4 @@
-<h1 align="center">大和夫</h1>
+<h1 align="center">荒木知也</h1>
 
 <p align="center">
   <strong>Student Programmer</strong>
