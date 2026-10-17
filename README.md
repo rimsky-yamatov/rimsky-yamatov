@@ -12,8 +12,6 @@
 
 <h2>About Me</h2>
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rimsky-yamatov&layout=donut&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
-
 <table>
   <tr>
     <td><strong>Location</strong></td>
@@ -34,6 +32,8 @@
 </table>
 
 <h2>Languages</h2>
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rimsky-yamatov&layout=donut&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
 
 <h3>Favorite Top 5</h3>
 
