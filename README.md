@@ -1,4 +1,4 @@
-<h1 align="center">荒木知也</h1>
+０<h1 align="center">荒木知也</h1>
 
 <p align="center">
   <strong>Student Programmer</strong>
@@ -11,6 +11,8 @@
 <hr>
 
 <h2>About Me</h2>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rimsky-yamatov)](https://github.com/stats-organization/github-stats-extended)
 
 <table>
   <tr>
