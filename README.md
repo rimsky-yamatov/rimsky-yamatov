@@ -12,7 +12,7 @@
 
 <h2>About Me</h2>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rimsky-yamatov)](https://github.com/stats-organization/github-stats-extended)
+""Top Languages" (https://github-stats-extended.vercel.app/api/top-langs/?username=rimsky-yamatov)" (https://github.com/stats-organization/github-stats-extended)
 
 <table>
   <tr>
