@@ -17,12 +17,12 @@
 5. F#
 6. Java
 
-[Zevic](https://github.com/zevic-lang)
+
 現在、自作プログラミング言語 Zevic を開発しています。
 
 言語仕様や構文を考えながら、コンパイラや標準ライブラリなどを実装しています。
 
-- Repository: "zevic-lang/zevic" (https://github.com/zevic-lang/zevic)
+- Repository:[zevic-lang/zevic](https://github.com/zevic-lang/zevic)
 
 ## Interests
 
